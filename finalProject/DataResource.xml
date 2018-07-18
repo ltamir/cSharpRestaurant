@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataResource>
+  <dataSource>
+    <urlSuffix>;Server='(localdb)\MSSQLLocalDB'</urlSuffix>
+    <urlPrefix>AttachDBFileName=</urlPrefix>
+    <dbPath>Restaurant.mdf</dbPath>  
+  </dataSource>
+  <messages>
+    <message id="1">
+      <title>מחיקת מנה</title>
+      <data>האם למחוק את המנה</data>
+    </message>
+    <message id="2">
+      <title>הוספת מנה</title>
+      <data>ערך הסכום אינו חוקי</data>
+    </message>
+    <message id="3">
+      <title>הוספת מנה</title>
+      <data>עליך לבחור סוג מנה</data>
+    </message>
+    <message id="4">
+      <title>עדכון מנה</title>
+      <data>ערך הסכום אינו חוקי</data>
+    </message>
+    <message id="5">
+      <title>הוספת מנה</title>
+      <data>שם המנה אינו חוקי</data>
+    </message>
+    <message id="6">
+      <title>הוספת הזמנה</title>
+      <data>לא נבחר שולחן להזמנה</data>
+    </message>
+    <message id="7">
+      <title>הוספת מנת פחממות</title>
+      <data>ניתן לבחור עד 2 מנות בלבד</data>
+    </message>
+    <message id="8">
+      <title>הוספת מנת קינוח</title>
+      <data>ניתן לבחור עד 2 מנות בלבד</data>
+    </message>
+  </messages>
+  <caption id="1">שולחן מספר</caption>
+  <caption id="2">מנה ראשונה</caption>
+  <caption id="3">מנה עיקרית</caption>
+  <caption id="4">תוספת ראשונה</caption>
+  <caption id="5">תוספת שניה</caption>
+  <caption id="6">קינוח ראשון</caption>
+  <caption id="7">קינוח שני</caption>
+  <caption id="8">הזמנה חדשה</caption>
+  <caption id="9">עדכון הזמנה</caption>
+  <caption id="10">הזמנה נשמרה</caption>
+</dataResource>
